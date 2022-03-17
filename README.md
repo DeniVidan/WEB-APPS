@@ -1,24 +1,6 @@
 # zadaca_1
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Deni Vidan
+- 0303088294
+- Web aplikacija
+- Zadatak vam je napraviti malu Vue.js aplikaciju koja će prikazivati commitove vuejs repozitorija.
